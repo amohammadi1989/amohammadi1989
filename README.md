@@ -6,6 +6,8 @@ I have  experience in development, system integration, performance tuning using 
 My current technical focus is on reinventing web and cloud technologies, high performance architectures all of which are closely related.
 
 - Skills and experiences :
+
+
 Application Server:WebSphere Application Server,WebLogic,GlassFish,Tomcat
 Messageing Queue:WebSphere MQ,ActiveMQ
 Java EE Framework:EJB,Spring,Quartz,AOP,WSSecurity,JUnit,JPA,JAXB,JSF,SpringMVC,WebFlux,Struts
